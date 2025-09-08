@@ -24,7 +24,7 @@ Esta é a versão **0.1.0**, focada em funcionalidades essenciais para organiza�
 2. Abra o arquivo `.html` em seu navegador favorito (desktop ou celular).  
 3. Personalize seus treinos e aproveite o controle total!  
 4. Use o botão "Resetar Treino" para trazer de volta qualquer exercício removido — sem perder suas edições.
-5. Ou acesse o link: https://dariokavalkeviski.github.io/ControleTreinoSemanal/treino-semanal.html
+5. Acesse o link: https://dariokavalkeviski.github.io/ControleTreinoSemanal/treino-semanal.html
 
 ---
 
