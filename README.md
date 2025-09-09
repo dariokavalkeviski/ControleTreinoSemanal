@@ -1,4 +1,4 @@
-# 💪 Plano de Treino Semanal Editável 🚀 (v0.1.0)
+# 💪 Plano de Treino Semanal Editável 🚀 (v0.1.1)
 
 Transforme sua rotina de exercícios com este plano de treino **interativo, personalizável e elegante**!  
 Uma versão inicial que já oferece edição live, salvamento automático e design inspirado no universo fitness para começar a organizar seus treinos no navegador.
@@ -14,7 +14,7 @@ Uma versão inicial que já oferece edição live, salvamento automático e desi
 
 ---
 
-Esta é a versão **0.1.0**, focada em funcionalidades essenciais para organização e controle dos treinos, com muito mais a vir!
+Esta é a versão **0.1.1**, focada em funcionalidades essenciais para organização e controle dos treinos, com muito mais a vir!
 
 ---
 
