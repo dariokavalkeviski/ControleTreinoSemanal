@@ -1,30 +1,44 @@
-# 💪 Plano de Treino Semanal Editável 🚀 (v0.1.0)
+# 💪 Plano de Treino Semanal 🏋️‍♂️
 
-Transforme sua rotina de exercícios com este plano de treino **interativo, personalizável e elegante**!  
-Uma versão inicial que já oferece edição live, salvamento automático e design inspirado no universo fitness para começar a organizar seus treinos no navegador.
+Uma aplicação web para gerenciamento de treinos e acompanhamento de IMC, desenvolvida com HTML, CSS e JavaScript puro.
 
 ## Principais funcionalidades
 
-- ✍️ **Edição em tempo real:** Modifique nomes de exercícios, séries, repetições e pesos de forma intuitiva e rápida, clicando diretamente na tabela.  
-- 💾 **Salvamento automático:** Todas as alterações são salvas automaticamente no navegador e restauradas na próxima visita — ideal para manter o progresso sem complicações!  
-- 🗂️ **Gestão dos treinos para a semana:** Seis tabelas separadas para os dias da semana (Segunda a Sábado), organizadas por grupos musculares para máxima eficiência.  
-- ✅ **Controle dos exercícios:** Marque exercícios como concluídos para removê-los facilmente, com opção para restaurar todas as linhas mantendo suas edições.  
-- 🎨 **Visual responsivo e moderno:** Design elegante e inspirado em academias, com ícone esportivo, compatível com desktops e dispositivos móveis.  
-- 📱 **Totalmente funcional no celular:** Baixe o arquivo e use diretamente no seu smartphone ou tablet, com interface otimizada para toque.
+**Gerenciamento de Treinos**
+- Organização de treinos divididos em A, B e C
+- Sistema de marcação de exercícios concluídos
+- Opção de resetar treinos individuais
+- Armazenamento local dos dados (localStorage)
+- Campo editável para registro de pesos utilizados
+- Listagem detalhada de exercícios com séries e repetições
 
 ---
 
-Esta é a versão **0.1.0**, focada em funcionalidades essenciais para organização e controle dos treinos, com muito mais a vir!
+## **Calculadora de IMC**
+- Cálculo personalizado de IMC (Índice de Massa Corporal)
+- Interface intuitiva para entrada de dados (nome, peso e altura)
+- Classificação automática do IMC com feedback visual
+- Recomendações personalizadas baseadas no resultado
+- Histórico de medições
+- Visualização em gráfico da evolução do IMC
+- Possibilidade de limpar histórico de medições
 
 ---
 
-## Como começar
-
-1. Faça o download ou clone este repositório.  
-2. Abra o arquivo `.html` em seu navegador favorito (desktop ou celular).  
-3. Personalize seus treinos e aproveite o controle total!  
-4. Use o botão "Resetar Treino" para trazer de volta qualquer exercício removido — sem perder suas edições.
-5. Acesse o link: https://dariokavalkeviski.github.io/ControleTreinoSemanal/index.html
+## **Layout**
+- Design moderno e limpo
+- Seções bem definidas para treinos e IMC
+- Cores indicativas para diferentes classificações de IMC
+- Interface adaptável para diferentes dispositivos
+  
+---
+## **Como Usar**
+1. Acesse a calculadora de IMC para registrar suas medições
+2. Visualize seu progresso através do histórico
+3. Acompanhe seus treinos divididos em A, B e C
+4. Marque exercícios concluídos
+5. Registre os pesos utilizados em cada exercício
+6. Reset individual de treinos quando necessário
 
 ---
 
