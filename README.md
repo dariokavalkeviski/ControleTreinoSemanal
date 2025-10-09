@@ -29,7 +29,7 @@ Uma aplicação web para gerenciamento de treinos e acompanhamento de IMC, desen
 - Design moderno e limpo
 - Seções bem definidas para treinos e IMC
 - Cores indicativas para diferentes classificações de IMC
-- Interface adaptável para diferentes dispositivos
+- Aplicação otimizada para uso em dispositivos móveis, com fontes adequadas e layout responsivo que mantém toda a funcionalidade e o visual moderno! 
   
 ---
 ## **Como Usar**
