@@ -11,6 +11,7 @@ Uma aplicação web para gerenciamento de treinos e acompanhamento de IMC, desen
 - Armazenamento local dos dados (localStorage)
 - Campo editável para registro de pesos utilizados
 - Listagem detalhada de exercícios com séries e repetições
+- Exportação em formato PDF para impressão
 
 ---
 
